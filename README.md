@@ -5,4 +5,4 @@ Find more about the zoomcamp <a href='https://dezoomcamp.streamlit.app/'>here</a
 
 In this repo, is the code for weekly walkthrough of homeworks and implementation of the data engineering pipeline for `NYTaxi` dataset.
 
-More about the datacamp and pipeline can be found at my blog post <a href='https://moh1tt.vercel.app/blog/nytaxi'>here</a>
+More about the datacamp and pipeline can be found at my blog post <a href='https://moh1tt.vercel.app/blog/NYTaxi'>here</a>
